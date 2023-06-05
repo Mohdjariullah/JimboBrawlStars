@@ -1,5 +1,5 @@
 # JimboBrawlStars
-Description
+# Description
 Video creator for Brawl Stars. I try to make you some of the finest quality content and I love the community that is actively building here!
 
 I love to post fun guides/experiments, and mini games that you can try with your friends! I am loving my current series where I am on a mission to find what TRIO is the best... at everything! 
